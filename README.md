@@ -2,7 +2,7 @@
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
-
+https://arxiv.org/abs/1412.6806
 Performing a discrete convolution in 2D
     
 [text](../../../../..)
@@ -11,3 +11,14 @@ Performing a discrete convolution in 2D
 the output of a 2d convulation 
 ![alt text](image-5.png)
 https://arxiv.org/abs/1509.09308
+
+
+Implementimg cnn:
+![alt text](image-6.png)
+![alt text](image-7.png)
+
+
+regularizing nn with l2
+https://arxiv.org/abs/1711.05101.
+http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf).
+![alt text](image-8.png)
