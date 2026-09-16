@@ -22,3 +22,9 @@ regularizing nn with l2
 https://arxiv.org/abs/1711.05101.
 http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf).
 ![alt text](image-8.png)
+
+Implementing a deep CNN using PyTorch
+![alt text](image-9.png)
+https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html.
+the spatial dimension of the output feature map is calculated by: 
+![alt text](image-10.png)
